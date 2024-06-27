@@ -6,3 +6,4 @@
 * [Brazilian Portuguese - v1.6.4](br/)
 * [Spanish / Español - v1.7](es/)
 * [Italian - v1.7](it/)
+* [Arabic - v1.8](ar/)
